@@ -1,0 +1,15 @@
+D:\mycode\challenges\csharp-median-of-two-sorted-arrays\csharp-median-of-two-sorted-arrays\bin\Debug\net6.0\csharp-median-of-two-sorted-arrays.exe
+D:\mycode\challenges\csharp-median-of-two-sorted-arrays\csharp-median-of-two-sorted-arrays\bin\Debug\net6.0\csharp-median-of-two-sorted-arrays.deps.json
+D:\mycode\challenges\csharp-median-of-two-sorted-arrays\csharp-median-of-two-sorted-arrays\bin\Debug\net6.0\csharp-median-of-two-sorted-arrays.runtimeconfig.json
+D:\mycode\challenges\csharp-median-of-two-sorted-arrays\csharp-median-of-two-sorted-arrays\bin\Debug\net6.0\csharp-median-of-two-sorted-arrays.dll
+D:\mycode\challenges\csharp-median-of-two-sorted-arrays\csharp-median-of-two-sorted-arrays\bin\Debug\net6.0\csharp-median-of-two-sorted-arrays.pdb
+D:\mycode\challenges\csharp-median-of-two-sorted-arrays\csharp-median-of-two-sorted-arrays\obj\Debug\net6.0\csharp-median-of-two-sorted-arrays.csproj.AssemblyReference.cache
+D:\mycode\challenges\csharp-median-of-two-sorted-arrays\csharp-median-of-two-sorted-arrays\obj\Debug\net6.0\csharp-median-of-two-sorted-arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\challenges\csharp-median-of-two-sorted-arrays\csharp-median-of-two-sorted-arrays\obj\Debug\net6.0\csharp-median-of-two-sorted-arrays.AssemblyInfoInputs.cache
+D:\mycode\challenges\csharp-median-of-two-sorted-arrays\csharp-median-of-two-sorted-arrays\obj\Debug\net6.0\csharp-median-of-two-sorted-arrays.AssemblyInfo.cs
+D:\mycode\challenges\csharp-median-of-two-sorted-arrays\csharp-median-of-two-sorted-arrays\obj\Debug\net6.0\csharp-median-of-two-sorted-arrays.csproj.CoreCompileInputs.cache
+D:\mycode\challenges\csharp-median-of-two-sorted-arrays\csharp-median-of-two-sorted-arrays\obj\Debug\net6.0\csharp-median-of-two-sorted-arrays.dll
+D:\mycode\challenges\csharp-median-of-two-sorted-arrays\csharp-median-of-two-sorted-arrays\obj\Debug\net6.0\refint\csharp-median-of-two-sorted-arrays.dll
+D:\mycode\challenges\csharp-median-of-two-sorted-arrays\csharp-median-of-two-sorted-arrays\obj\Debug\net6.0\csharp-median-of-two-sorted-arrays.pdb
+D:\mycode\challenges\csharp-median-of-two-sorted-arrays\csharp-median-of-two-sorted-arrays\obj\Debug\net6.0\csharp-median-of-two-sorted-arrays.genruntimeconfig.cache
+D:\mycode\challenges\csharp-median-of-two-sorted-arrays\csharp-median-of-two-sorted-arrays\obj\Debug\net6.0\ref\csharp-median-of-two-sorted-arrays.dll
