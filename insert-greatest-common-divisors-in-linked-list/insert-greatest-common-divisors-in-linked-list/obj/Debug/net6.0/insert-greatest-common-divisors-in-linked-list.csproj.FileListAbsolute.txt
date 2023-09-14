@@ -1,0 +1,15 @@
+D:\mycode\challenges\insert-greatest-common-divisors-in-linked-list\insert-greatest-common-divisors-in-linked-list\bin\Debug\net6.0\insert-greatest-common-divisors-in-linked-list.exe
+D:\mycode\challenges\insert-greatest-common-divisors-in-linked-list\insert-greatest-common-divisors-in-linked-list\bin\Debug\net6.0\insert-greatest-common-divisors-in-linked-list.deps.json
+D:\mycode\challenges\insert-greatest-common-divisors-in-linked-list\insert-greatest-common-divisors-in-linked-list\bin\Debug\net6.0\insert-greatest-common-divisors-in-linked-list.runtimeconfig.json
+D:\mycode\challenges\insert-greatest-common-divisors-in-linked-list\insert-greatest-common-divisors-in-linked-list\bin\Debug\net6.0\insert-greatest-common-divisors-in-linked-list.dll
+D:\mycode\challenges\insert-greatest-common-divisors-in-linked-list\insert-greatest-common-divisors-in-linked-list\bin\Debug\net6.0\insert-greatest-common-divisors-in-linked-list.pdb
+D:\mycode\challenges\insert-greatest-common-divisors-in-linked-list\insert-greatest-common-divisors-in-linked-list\obj\Debug\net6.0\insert-greatest-common-divisors-in-linked-list.csproj.AssemblyReference.cache
+D:\mycode\challenges\insert-greatest-common-divisors-in-linked-list\insert-greatest-common-divisors-in-linked-list\obj\Debug\net6.0\insert-greatest-common-divisors-in-linked-list.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\challenges\insert-greatest-common-divisors-in-linked-list\insert-greatest-common-divisors-in-linked-list\obj\Debug\net6.0\insert-greatest-common-divisors-in-linked-list.AssemblyInfoInputs.cache
+D:\mycode\challenges\insert-greatest-common-divisors-in-linked-list\insert-greatest-common-divisors-in-linked-list\obj\Debug\net6.0\insert-greatest-common-divisors-in-linked-list.AssemblyInfo.cs
+D:\mycode\challenges\insert-greatest-common-divisors-in-linked-list\insert-greatest-common-divisors-in-linked-list\obj\Debug\net6.0\insert-greatest-common-divisors-in-linked-list.csproj.CoreCompileInputs.cache
+D:\mycode\challenges\insert-greatest-common-divisors-in-linked-list\insert-greatest-common-divisors-in-linked-list\obj\Debug\net6.0\insert-greatest-common-divisors-in-linked-list.dll
+D:\mycode\challenges\insert-greatest-common-divisors-in-linked-list\insert-greatest-common-divisors-in-linked-list\obj\Debug\net6.0\refint\insert-greatest-common-divisors-in-linked-list.dll
+D:\mycode\challenges\insert-greatest-common-divisors-in-linked-list\insert-greatest-common-divisors-in-linked-list\obj\Debug\net6.0\insert-greatest-common-divisors-in-linked-list.pdb
+D:\mycode\challenges\insert-greatest-common-divisors-in-linked-list\insert-greatest-common-divisors-in-linked-list\obj\Debug\net6.0\insert-greatest-common-divisors-in-linked-list.genruntimeconfig.cache
+D:\mycode\challenges\insert-greatest-common-divisors-in-linked-list\insert-greatest-common-divisors-in-linked-list\obj\Debug\net6.0\ref\insert-greatest-common-divisors-in-linked-list.dll

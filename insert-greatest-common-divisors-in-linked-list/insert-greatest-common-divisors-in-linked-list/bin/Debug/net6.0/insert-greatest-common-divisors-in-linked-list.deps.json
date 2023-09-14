@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "insert-greatest-common-divisors-in-linked-list/1.0.0": {
+        "runtime": {
+          "insert-greatest-common-divisors-in-linked-list.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "insert-greatest-common-divisors-in-linked-list/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
