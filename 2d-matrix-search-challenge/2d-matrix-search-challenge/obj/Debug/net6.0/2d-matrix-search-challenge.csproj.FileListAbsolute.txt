@@ -1,0 +1,15 @@
+D:\mycode\challenges\2d-matrix-search-challenge\2d-matrix-search-challenge\bin\Debug\net6.0\2d-matrix-search-challenge.exe
+D:\mycode\challenges\2d-matrix-search-challenge\2d-matrix-search-challenge\bin\Debug\net6.0\2d-matrix-search-challenge.deps.json
+D:\mycode\challenges\2d-matrix-search-challenge\2d-matrix-search-challenge\bin\Debug\net6.0\2d-matrix-search-challenge.runtimeconfig.json
+D:\mycode\challenges\2d-matrix-search-challenge\2d-matrix-search-challenge\bin\Debug\net6.0\2d-matrix-search-challenge.dll
+D:\mycode\challenges\2d-matrix-search-challenge\2d-matrix-search-challenge\bin\Debug\net6.0\2d-matrix-search-challenge.pdb
+D:\mycode\challenges\2d-matrix-search-challenge\2d-matrix-search-challenge\obj\Debug\net6.0\2d-matrix-search-challenge.csproj.AssemblyReference.cache
+D:\mycode\challenges\2d-matrix-search-challenge\2d-matrix-search-challenge\obj\Debug\net6.0\2d-matrix-search-challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\challenges\2d-matrix-search-challenge\2d-matrix-search-challenge\obj\Debug\net6.0\2d-matrix-search-challenge.AssemblyInfoInputs.cache
+D:\mycode\challenges\2d-matrix-search-challenge\2d-matrix-search-challenge\obj\Debug\net6.0\2d-matrix-search-challenge.AssemblyInfo.cs
+D:\mycode\challenges\2d-matrix-search-challenge\2d-matrix-search-challenge\obj\Debug\net6.0\2d-matrix-search-challenge.csproj.CoreCompileInputs.cache
+D:\mycode\challenges\2d-matrix-search-challenge\2d-matrix-search-challenge\obj\Debug\net6.0\2d-matrix-search-challenge.dll
+D:\mycode\challenges\2d-matrix-search-challenge\2d-matrix-search-challenge\obj\Debug\net6.0\refint\2d-matrix-search-challenge.dll
+D:\mycode\challenges\2d-matrix-search-challenge\2d-matrix-search-challenge\obj\Debug\net6.0\2d-matrix-search-challenge.pdb
+D:\mycode\challenges\2d-matrix-search-challenge\2d-matrix-search-challenge\obj\Debug\net6.0\2d-matrix-search-challenge.genruntimeconfig.cache
+D:\mycode\challenges\2d-matrix-search-challenge\2d-matrix-search-challenge\obj\Debug\net6.0\ref\2d-matrix-search-challenge.dll
