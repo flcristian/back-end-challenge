@@ -1,0 +1,14 @@
+D:\mycode\challenges\self-dividing-numbers\self-dividing-numbers\bin\Debug\net6.0\self-dividing-numbers.exe
+D:\mycode\challenges\self-dividing-numbers\self-dividing-numbers\bin\Debug\net6.0\self-dividing-numbers.deps.json
+D:\mycode\challenges\self-dividing-numbers\self-dividing-numbers\bin\Debug\net6.0\self-dividing-numbers.runtimeconfig.json
+D:\mycode\challenges\self-dividing-numbers\self-dividing-numbers\bin\Debug\net6.0\self-dividing-numbers.dll
+D:\mycode\challenges\self-dividing-numbers\self-dividing-numbers\bin\Debug\net6.0\self-dividing-numbers.pdb
+D:\mycode\challenges\self-dividing-numbers\self-dividing-numbers\obj\Debug\net6.0\self-dividing-numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\challenges\self-dividing-numbers\self-dividing-numbers\obj\Debug\net6.0\self-dividing-numbers.AssemblyInfoInputs.cache
+D:\mycode\challenges\self-dividing-numbers\self-dividing-numbers\obj\Debug\net6.0\self-dividing-numbers.AssemblyInfo.cs
+D:\mycode\challenges\self-dividing-numbers\self-dividing-numbers\obj\Debug\net6.0\self-dividing-numbers.csproj.CoreCompileInputs.cache
+D:\mycode\challenges\self-dividing-numbers\self-dividing-numbers\obj\Debug\net6.0\self-dividing-numbers.dll
+D:\mycode\challenges\self-dividing-numbers\self-dividing-numbers\obj\Debug\net6.0\refint\self-dividing-numbers.dll
+D:\mycode\challenges\self-dividing-numbers\self-dividing-numbers\obj\Debug\net6.0\self-dividing-numbers.pdb
+D:\mycode\challenges\self-dividing-numbers\self-dividing-numbers\obj\Debug\net6.0\self-dividing-numbers.genruntimeconfig.cache
+D:\mycode\challenges\self-dividing-numbers\self-dividing-numbers\obj\Debug\net6.0\ref\self-dividing-numbers.dll
