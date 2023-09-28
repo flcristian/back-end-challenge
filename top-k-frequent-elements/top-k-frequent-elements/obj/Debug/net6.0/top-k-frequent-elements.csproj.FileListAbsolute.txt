@@ -1,0 +1,14 @@
+D:\mycode\challenges\top-k-frequent-elements\top-k-frequent-elements\obj\Debug\net6.0\top-k-frequent-elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\mycode\challenges\top-k-frequent-elements\top-k-frequent-elements\obj\Debug\net6.0\top-k-frequent-elements.AssemblyInfoInputs.cache
+D:\mycode\challenges\top-k-frequent-elements\top-k-frequent-elements\obj\Debug\net6.0\top-k-frequent-elements.AssemblyInfo.cs
+D:\mycode\challenges\top-k-frequent-elements\top-k-frequent-elements\obj\Debug\net6.0\top-k-frequent-elements.csproj.CoreCompileInputs.cache
+D:\mycode\challenges\top-k-frequent-elements\top-k-frequent-elements\bin\Debug\net6.0\top-k-frequent-elements.exe
+D:\mycode\challenges\top-k-frequent-elements\top-k-frequent-elements\bin\Debug\net6.0\top-k-frequent-elements.deps.json
+D:\mycode\challenges\top-k-frequent-elements\top-k-frequent-elements\bin\Debug\net6.0\top-k-frequent-elements.runtimeconfig.json
+D:\mycode\challenges\top-k-frequent-elements\top-k-frequent-elements\bin\Debug\net6.0\top-k-frequent-elements.dll
+D:\mycode\challenges\top-k-frequent-elements\top-k-frequent-elements\bin\Debug\net6.0\top-k-frequent-elements.pdb
+D:\mycode\challenges\top-k-frequent-elements\top-k-frequent-elements\obj\Debug\net6.0\top-k-frequent-elements.dll
+D:\mycode\challenges\top-k-frequent-elements\top-k-frequent-elements\obj\Debug\net6.0\refint\top-k-frequent-elements.dll
+D:\mycode\challenges\top-k-frequent-elements\top-k-frequent-elements\obj\Debug\net6.0\top-k-frequent-elements.pdb
+D:\mycode\challenges\top-k-frequent-elements\top-k-frequent-elements\obj\Debug\net6.0\top-k-frequent-elements.genruntimeconfig.cache
+D:\mycode\challenges\top-k-frequent-elements\top-k-frequent-elements\obj\Debug\net6.0\ref\top-k-frequent-elements.dll
