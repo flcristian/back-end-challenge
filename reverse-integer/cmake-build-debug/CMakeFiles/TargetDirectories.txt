@@ -1,0 +1,3 @@
+D:/mycode/challenges/reverse-integer/cmake-build-debug/CMakeFiles/reverse_integer.dir
+D:/mycode/challenges/reverse-integer/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/mycode/challenges/reverse-integer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
