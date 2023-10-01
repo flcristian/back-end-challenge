@@ -1,14 +1,16 @@
 # ninja log v5
-1	186	7178941037295339	build.ninja	c9d6dcdb98934447
-1	570	7178941043678471	CMakeFiles/reverse_integer.dir/main.cpp.obj	194ef76c9dca07aa
-571	728	7178941045213968	reverse_integer.exe	c1a2e56c000d9351
-4	561	7178941325733866	CMakeFiles/reverse_integer.dir/main.cpp.obj	194ef76c9dca07aa
-561	667	7178941326760040	reverse_integer.exe	c1a2e56c000d9351
-4	571	7178941367119021	CMakeFiles/reverse_integer.dir/main.cpp.obj	194ef76c9dca07aa
-571	671	7178941368069913	reverse_integer.exe	c1a2e56c000d9351
-5	580	7178941573461073	CMakeFiles/reverse_integer.dir/main.cpp.obj	194ef76c9dca07aa
-581	684	7178941574470049	reverse_integer.exe	c1a2e56c000d9351
-3	566	7178943279884743	CMakeFiles/reverse_integer.dir/main.cpp.obj	194ef76c9dca07aa
-567	683	7178943281010835	reverse_integer.exe	c1a2e56c000d9351
+1	186	7178949057830337	build.ninja	c9d6dcdb98934447
 3	559	7178943348034816	CMakeFiles/reverse_integer.dir/main.cpp.obj	194ef76c9dca07aa
 560	670	7178943349100925	reverse_integer.exe	c1a2e56c000d9351
+4	605	7178949532934284	CMakeFiles/reverse_integer.dir/main.cpp.obj	194ef76c9dca07aa
+605	725	7178949534092691	reverse_integer.exe	c1a2e56c000d9351
+4	558	7178949701039502	CMakeFiles/reverse_integer.dir/main.cpp.obj	194ef76c9dca07aa
+558	675	7178949702166859	reverse_integer.exe	c1a2e56c000d9351
+3	543	7178950402123785	CMakeFiles/reverse_integer.dir/main.cpp.obj	194ef76c9dca07aa
+543	644	7178950403101227	reverse_integer.exe	c1a2e56c000d9351
+3	553	7178950902100851	CMakeFiles/reverse_integer.dir/main.cpp.obj	194ef76c9dca07aa
+553	653	7178950903089566	reverse_integer.exe	c1a2e56c000d9351
+4	557	7178951027021718	CMakeFiles/reverse_integer.dir/main.cpp.obj	194ef76c9dca07aa
+557	661	7178951028017678	reverse_integer.exe	c1a2e56c000d9351
+3	560	7178952188550176	CMakeFiles/reverse_integer.dir/main.cpp.obj	194ef76c9dca07aa
+560	658	7178952189497946	reverse_integer.exe	c1a2e56c000d9351
