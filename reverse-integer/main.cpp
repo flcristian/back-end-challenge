@@ -2,5 +2,5 @@
 
 int main() {
     Solution sol;
-    cout << sol.reverse(1534236469);
+    cout << sol.reverse(-123);
 }
