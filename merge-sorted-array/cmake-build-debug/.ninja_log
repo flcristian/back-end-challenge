@@ -1,0 +1,7 @@
+# ninja log v5
+1	780	7179625634321316	CMakeFiles/merge_sorted_array.dir/main.cpp.obj	2bb6e6c15872a08a
+782	985	7179625636343670	merge_sorted_array.exe	e1db8d2c19789237
+3	699	7179627130072965	CMakeFiles/merge_sorted_array.dir/main.cpp.obj	2bb6e6c15872a08a
+699	825	7179627131307017	merge_sorted_array.exe	e1db8d2c19789237
+4	733	7179630576738782	CMakeFiles/merge_sorted_array.dir/main.cpp.obj	2bb6e6c15872a08a
+734	870	7179630578088820	merge_sorted_array.exe	e1db8d2c19789237
