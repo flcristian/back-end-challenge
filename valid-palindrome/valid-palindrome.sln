@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "valid-palindrome", "valid-palindrome\valid-palindrome.csproj", "{CF9F20FB-133B-4E39-B097-CC5516E7FEAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF9F20FB-133B-4E39-B097-CC5516E7FEAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF9F20FB-133B-4E39-B097-CC5516E7FEAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF9F20FB-133B-4E39-B097-CC5516E7FEAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF9F20FB-133B-4E39-B097-CC5516E7FEAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
