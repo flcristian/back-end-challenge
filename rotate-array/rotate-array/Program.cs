@@ -1,0 +1,12 @@
+﻿using rotate_array;
+
+internal class Program
+{
+    public static void Main(string[] args)
+    {
+        Solution sol = new Solution();
+        int[] x = { 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27 };
+        sol.Rotate(x, 38);
+        for(int i = 0;i<x.Length;i++) Console.Write(x[i] + " ");
+    }
+}
